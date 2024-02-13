@@ -1,0 +1,8 @@
+.home {
+  flex: 4;
+}
+.userLists {
+  display: flex;
+  margin: 10px;
+  margin-left: 0px;
+}
